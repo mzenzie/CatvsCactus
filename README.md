@@ -1,2 +1,2 @@
 # CatvsCactus
-Support scripts for creating an image classifier of cats vs cacti using caffe.
+Random files I used to help with training a neural network using caffe. You probably won't find any of them useful.
